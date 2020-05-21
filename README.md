@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+##RNS INSTITUTE OF TECHNOLOGY
 
 You can use the [editor on GitHub](https://github.com/AishwaryaKaranth/jekyll-demo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
