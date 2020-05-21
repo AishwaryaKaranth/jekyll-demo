@@ -4,25 +4,25 @@ You can use the [editor on GitHub](https://github.com/AishwaryaKaranth/jekyll-de
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-                                              ### About
+### About
 
 The conference aims to provide the platform for UG and PG students of Engineering discipline for the exchange of new ideas, thoughts, emerging trends in Engineering, Science and Technolgy.
 
 
 
-## Cheif Patron
+### Cheif Patron
 ## Dr R N Shetty
 ### Chairman
 
-## Patron
+### Patron
 # Dr H N Shivashankar
 # Director
 
-## Organising Chair
+### Organising Chair
 ## Dr M K Venkatesha
 ### Principal
 
-## Convener
+### Convener
 ## Dr Vipula Singh
 ### Professor and Head of Department, ECE
 
