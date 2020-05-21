@@ -76,7 +76,7 @@ The conference aims to provide the platform for UG and PG students of Engineerin
 
 
 
-                                                ### Support or Contact
-                                                ## Dr Smitha N         -
-                                                ## Mrs.Chethana J      -
-                                                ## ncetest2020@gmail.com
+### Support or Contact
+## Dr Smitha N         -
+## Mrs.Chethana J      -
+## ncetest2020@gmail.com
