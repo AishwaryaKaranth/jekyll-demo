@@ -40,7 +40,6 @@ The conference aims to provide the platform for UG and PG students of Engineerin
 
 ```
 
-<!--For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).-->
 
 ### Topics 
 - Machine Learning and Artificial Intelligence
@@ -65,15 +64,15 @@ The conference aims to provide the platform for UG and PG students of Engineerin
 
 
 
-                          ### Organising Committee
-                ## Department of ECE
-                # Mrs.Ibrar Jahan M A          Asst. Prof.
-                # Mrs.Ghousia Begum            Asst. Prof.
-                # Mrs.Chethana J               Asst. Prof.
-                # Mrs.Leena C                  Asst. Prof.
-                # Mrs.Apoorva N Hegde          Asst. Prof.
-                # Mrs.Nirmala M S              Asst. Prof.
-                # Mrs.Dhanusha A               Asst. Prof.
+### Organising Committee
+## Department of ECE
+# Mrs.Ibrar Jahan M A          Asst. Prof.
+# Mrs.Ghousia Begum            Asst. Prof.
+# Mrs.Chethana J               Asst. Prof.
+# Mrs.Leena C                  Asst. Prof.
+# Mrs.Apoorva N Hegde          Asst. Prof.
+# Mrs.Nirmala M S              Asst. Prof.
+# Mrs.Dhanusha A               Asst. Prof.
 
 
 
