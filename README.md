@@ -44,6 +44,7 @@ Professor and Head of Department, ECE
  
  Assistant Professor
 
+**Important Dates** 
 ## Dates ##
 ```markdown
 ### Important Dates
@@ -77,7 +78,7 @@ Professor and Head of Department, ECE
 ## Committee ##
 
 * * *
-
+Organising Committee
 ## Department of ECE
 >- Mrs.Ibrar Jahan M A          
 Asst. Prof.
