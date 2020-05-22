@@ -1,10 +1,10 @@
 ## RNS INSTITUTE OF TECHNOLOGY
 
 ## Department of Electronics and Communication
-[ Home ](https://github.com/AishwaryaKaranth/jekyll-demo/edit/master/README.md) |[ About ](#abt)|[ Topics ](#topics)|[Important Dates ](#dates)|[ Committee ](#committee)|[ Contact ](#contact)
+[ About ](#About)|[ Topics ](#Topics)|[Important Dates ](#Important Dates)|[ Committee ](# Organising Committee)|[ Contact ](#Contact)
 
-## abt ##
-### About
+## About ##
+
 * * *
 The conference aims to provide the platform for UG and PG students of Engineering discipline for the exchange of new ideas, thoughts, emerging trends in Engineering, Science and Technolgy.
 
@@ -44,14 +44,14 @@ Professor and Head of Department, ECE
  
  Assistant Professor
 
-## dates ##
+## Important Dates ##
 ```markdown
 ### Important Dates
 
 ```
 
-## topics ##
-### Topics 
+## Topics ##
+ 
 * * *
 >- Machine Learning and Artificial Intelligence
 >- Audio and speech processing
@@ -74,8 +74,8 @@ Professor and Head of Department, ECE
 >- MEMS
 
 
-## committee ##
-### Organising Committee
+## Organising Committee ##
+
 * * *
 
 ## Department of ECE
@@ -95,8 +95,8 @@ Asst. Prof.
 Asst. Prof.
 
 
-## contact ##
-### Support or Contact
+## Contact ##
+
 * * *
 
  **Dr Smitha N**         -
