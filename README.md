@@ -12,6 +12,7 @@ The conference aims to provide the platform for UG and PG students of Engineerin
 **Cheif Patron**
 
  Dr R N Shetty
+ 
  Chairman
 
 **Patron**
