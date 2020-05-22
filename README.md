@@ -1,7 +1,7 @@
 ## RNS INSTITUTE OF TECHNOLOGY
 
 ## Department of Electronics and Communication
-[ About ](#about)|[ Topics ](#topics)|[ Important Dates ](#dates)|[ Committee ](#committee)|[ Contact ](#contact)
+[ About ](#about)|[ Topics ](#topics)|[ Important Dates ](#important-dates)|[ Committee ](#organising-committee)|[ Contact ](#contact)
 
 ## About ##
 
@@ -12,40 +12,34 @@ The conference aims to provide the platform for UG and PG students of Engineerin
 
 **Cheif Patron**
 
- Dr R N Shetty
- 
+ Dr R N Shetty\
  Chairman
 
 **Patron**
 
-Dr H N Shivashankar
-
+Dr H N Shivashankar\
 Director
 
 **Organising Chair**
 
-Dr M K Venkatesha
-
+Dr M K Venkatesha\
 Principal
 
 **Convener**
 
-Dr Vipula Singh
-
+Dr Vipula Singh\
 Professor and Head of Department, ECE
 
 **Co-ordinators**
 
- Dr Smitha N
- 
+ Dr Smitha N\
  Assistant Professor
 
- Dr Ohileshwari M S
- 
+ Dr Ohileshwari M S\
  Assistant Professor
 
-**Important Dates** 
-## Dates ##
+## Important Dates ## 
+
 ```markdown
 ### Important Dates
 
@@ -75,10 +69,10 @@ Professor and Head of Department, ECE
 >- MEMS
 
 
-## Committee ##
+## Organising Committee ##
 
 * * *
-Organising Committee
+
 ## Department of ECE
 >- Mrs.Ibrar Jahan M A          
 Asst. Prof.
@@ -100,6 +94,6 @@ Asst. Prof.
 
 * * *
 
- **Dr Smitha N**         -
+ **Dr Smitha N**         -\
  **Mrs.Chethana J**      -
 ## ncetest2020@gmail.com
