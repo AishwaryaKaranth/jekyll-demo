@@ -10,17 +10,17 @@ The conference aims to provide the platform for UG and PG students of Engineerin
 
 
 
-### Cheif Patron
+** Cheif Patron**
  Dr R N Shetty
  Chairman
 
-| Patron                 |Organising Chair          | Convener        |
+|** Patron  **           |** Organising Chair **    | **Convener **   |
 |:-----------------------|:-------------------------|:----------------|
 | Dr H N Shivashankar    | Dr M K Venkatesha        |Dr Vipula Singh  |
 
 
 
-## Co-ordinators
+** Co-ordinators **
  Dr Smitha N
  Assistant Professor
 
@@ -35,37 +35,37 @@ The conference aims to provide the platform for UG and PG students of Engineerin
 
 
 ### Topics 
-- Machine Learning and Artificial Intelligence
-- Audio and speech processing
-- Pattern recognition
-- Image and video processing
-- Biomedical Signal Processing
-- Cellular communication and optics
-- VLSI/Embedded Systems
-- Microwave/Web Technologies
-- Reliability and Quality Assurance
-- Cloud Computing
-- Computer Security
-- Data Mining
-- Neural Networks
-- Nano Electronics
-- Mobile Computing
-- Mechatronics
-- Robotics Engineering
-- IoT
-- MEMS
+>- Machine Learning and Artificial Intelligence
+>- Audio and speech processing
+>- Pattern recognition
+>- Image and video processing
+>- Biomedical Signal Processing
+>- Cellular communication and optics
+>- VLSI/Embedded Systems
+>- Microwave/Web Technologies
+>- Reliability and Quality Assurance
+>- Cloud Computing
+>- Computer Security
+>- Data Mining
+>- Neural Networks
+>- Nano Electronics
+>- Mobile Computing
+>- Mechatronics
+>- Robotics Engineering
+>- IoT
+>- MEMS
 
 
 
 ### Organising Committee
 ## Department of ECE
-# Mrs.Ibrar Jahan M A          Asst. Prof.
-# Mrs.Ghousia Begum            Asst. Prof.
-# Mrs.Chethana J               Asst. Prof.
-# Mrs.Leena C                  Asst. Prof.
-# Mrs.Apoorva N Hegde          Asst. Prof.
-# Mrs.Nirmala M S              Asst. Prof.
-# Mrs.Dhanusha A               Asst. Prof.
+> Mrs.Ibrar Jahan M A          Asst. Prof.
+> Mrs.Ghousia Begum            Asst. Prof.
+> Mrs.Chethana J               Asst. Prof.
+>Mrs.Leena C                   Asst. Prof.
+> Mrs.Apoorva N Hegde          Asst. Prof.
+> Mrs.Nirmala M S              Asst. Prof.
+> Mrs.Dhanusha A               Asst. Prof.
 
 
 
