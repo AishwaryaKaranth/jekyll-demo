@@ -2,8 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/AishwaryaKaranth/jekyll-demo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+[Home](https://github.com/AishwaryaKaranth/jekyll-demo/edit/master/README.md)|[About](https://github.com/AishwaryaKaranth/jekyll-demo/edit/master/about.md)|[Important Dates](https://github.com/AishwaryaKaranth/jekyll-demo/edit/master/dates.md)|[Topics](https://github.com/AishwaryaKaranth/jekyll-demo/edit/master/topics.md)|[Contact](https://github.com/AishwaryaKaranth/jekyll-demo/edit/master/contact.md)
 ### About
 * * *
 The conference aims to provide the platform for UG and PG students of Engineering discipline for the exchange of new ideas, thoughts, emerging trends in Engineering, Science and Technolgy.
