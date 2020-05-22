@@ -14,13 +14,13 @@ The conference aims to provide the platform for UG and PG students of Engineerin
  Dr R N Shetty
  Chairman
 
-|** Patron  **           |** Organising Chair **    | **Convener **   |
-|:-----------------------|:-------------------------|:----------------|
-| Dr H N Shivashankar    | Dr M K Venkatesha        |Dr Vipula Singh  |
+|      **Patron**        |    **Organising Chair**  | **Convener**                       |
+|:-----------------------|:-------------------------|:-----------------------------------|
+| Dr H N Shivashankar    |     Dr M K Venkatesha    |Dr Vipula Singh                     |
+|      Director          |      Principal           |Professor and Head of Department,ECE|
 
 
-
-** Co-ordinators **
+**Co-ordinators**
  Dr Smitha N
  Assistant Professor
 
@@ -59,17 +59,17 @@ The conference aims to provide the platform for UG and PG students of Engineerin
 
 ### Organising Committee
 ## Department of ECE
-> Mrs.Ibrar Jahan M A          Asst. Prof.
-> Mrs.Ghousia Begum            Asst. Prof.
-> Mrs.Chethana J               Asst. Prof.
->Mrs.Leena C                   Asst. Prof.
-> Mrs.Apoorva N Hegde          Asst. Prof.
-> Mrs.Nirmala M S              Asst. Prof.
-> Mrs.Dhanusha A               Asst. Prof.
+> -Mrs.Ibrar Jahan M A          Asst. Prof.
+> -Mrs.Ghousia Begum            Asst. Prof.
+> -Mrs.Chethana J               Asst. Prof.
+> -Mrs.Leena C                  Asst. Prof.
+> -Mrs.Apoorva N Hegde          Asst. Prof.
+> -Mrs.Nirmala M S              Asst. Prof.
+> -Mrs.Dhanusha A               Asst. Prof.
 
 
 
 ### Support or Contact
-## Dr Smitha N         -
-## Mrs.Chethana J      -
+ **Dr Smitha N**         -
+ **Mrs.Chethana J**      -
 ## ncetest2020@gmail.com
