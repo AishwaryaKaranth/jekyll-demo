@@ -14,17 +14,11 @@ The conference aims to provide the platform for UG and PG students of Engineerin
  Dr R N Shetty
  Chairman
 
-### Patron                             ### Organising Chair
- Dr H N Shivashankar                   Dr M K Venkatesha
- Director                              Principal
+| Patron                 |Organising Chair          | Convener        |
+|:-----------------------|:-------------------------|:----------------|
+| Dr H N Shivashankar    | Dr M K Venkatesha        |Dr Vipula Singh  |
 
-### Organising Chair
- Dr M K Venkatesha
- Principal
 
-### Convener
- Dr Vipula Singh
- Professor and Head of Department, ECE
 
 ## Co-ordinators
  Dr Smitha N
