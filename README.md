@@ -1,7 +1,7 @@
 ## RNS INSTITUTE OF TECHNOLOGY
 
 ## Department of Electronics and Communication
-[ About ](#About)|[ Topics ](#Topics)|[Important Dates ](#Important Dates)|[ Committee ](# Organising Committee)|[ Contact ](#Contact)
+[ About ](#About)|[ Topics ](#Topics)|[Important Dates ](#ImportantDates)|[ Committee ](# OrganisingCommittee)|[ Contact ](#Contact)
 
 ## About ##
 
@@ -44,7 +44,7 @@ Professor and Head of Department, ECE
  
  Assistant Professor
 
-## Important Dates ##
+## ImportantDates ##
 ```markdown
 ### Important Dates
 
@@ -74,7 +74,7 @@ Professor and Head of Department, ECE
 >- MEMS
 
 
-## Organising Committee ##
+## OrganisingCommittee ##
 
 * * *
 
