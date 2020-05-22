@@ -1,7 +1,7 @@
 ## RNS INSTITUTE OF TECHNOLOGY
 
 ## Department of Electronics and Communication
-[ About ](#About)|[ Topics ](#Topics)|[ Important Dates ](#Dates)|[ Committee ](#Committee)|[ Contact ](#Contact)
+[ About ](#about)|[ Topics ](#topics)|[ Important Dates ](#dates)|[ Committee ](#committee)|[ Contact ](#contact)
 
 ## About ##
 
