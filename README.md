@@ -96,4 +96,4 @@ Asst. Prof.
 
  **Dr Smitha N**         -<br/>
  **Mrs.Chethana J**      -
-## ncetest2020@gmail.com
+## ncetest2020.rnsit@gmail.com
