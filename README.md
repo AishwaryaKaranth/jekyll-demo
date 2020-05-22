@@ -1,8 +1,8 @@
 ### RNS INSTITUTE OF TECHNOLOGY
 
-You can use the [editor on GitHub](https://github.com/AishwaryaKaranth/jekyll-demo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Department of Electronics and Communication
 
-[Home](https://github.com/AishwaryaKaranth/jekyll-demo/edit/master/README.md)|[About](https://github.com/AishwaryaKaranth/jekyll-demo/edit/master/about.md)|[Important Dates](https://github.com/AishwaryaKaranth/jekyll-demo/edit/master/dates.md)|[Topics](https://github.com/AishwaryaKaranth/jekyll-demo/edit/master/topics.md)|[Contact](https://github.com/AishwaryaKaranth/jekyll-demo/edit/master/contact.md)
+[ Home  ](https://github.com/AishwaryaKaranth/jekyll-demo/edit/master/README.md) |[ About  ](https://github.com/AishwaryaKaranth/jekyll-demo/edit/master/about.md) |[ Important Dates  ](https://github.com/AishwaryaKaranth/jekyll-demo/edit/master/dates.md) |[ Topics  ](https://github.com/AishwaryaKaranth/jekyll-demo/edit/master/topics.md) |[ Contact ](https://github.com/AishwaryaKaranth/jekyll-demo/edit/master/contact.md)
 ### About
 * * *
 The conference aims to provide the platform for UG and PG students of Engineering discipline for the exchange of new ideas, thoughts, emerging trends in Engineering, Science and Technolgy.
@@ -10,21 +10,36 @@ The conference aims to provide the platform for UG and PG students of Engineerin
 
 
 **Cheif Patron**
+
  Dr R N Shetty
  Chairman
 
-|      **Patron**        |    **Organising Chair**  | **Convener**                       |
-|:-----------------------|:-------------------------|:-----------------------------------|
-| Dr H N Shivashankar    |     Dr M K Venkatesha    |Dr Vipula Singh                     |
-|      Director          |      Principal           |Professor and Head of Department,ECE|
+**Patron**
 
+Dr H N Shivashankar
+
+Director
+
+**Organising Chair**
+
+Dr M K Venkatesha
+
+Principal
+
+**Convener**
+
+Dr Vipula Singh
+
+Professor and Head of Department, ECE
 
 **Co-ordinators**
 
  Dr Smitha N
+ 
  Assistant Professor
 
  Dr Ohileshwari M S
+ 
  Assistant Professor
 
 
@@ -62,13 +77,20 @@ The conference aims to provide the platform for UG and PG students of Engineerin
 * * *
 
 ## Department of ECE
->- Mrs.Ibrar Jahan M A          Asst. Prof.
->- Mrs.Ghousia Begum            Asst. Prof.
->- Mrs.Chethana J               Asst. Prof.
->- Mrs.Leena C                  Asst. Prof.
->- Mrs.Apoorva N Hegde          Asst. Prof.
->- Mrs.Nirmala M S              Asst. Prof.
->- Mrs.Dhanusha A               Asst. Prof.
+>- Mrs.Ibrar Jahan M A          
+Asst. Prof.
+>- Mrs.Ghousia Begum           
+Asst. Prof.
+>- Mrs.Chethana J             
+Asst. Prof.
+>- Mrs.Leena C                  
+Asst. Prof.
+>- Mrs.Apoorva N Hegde          
+Asst. Prof.
+>- Mrs.Nirmala M S           
+Asst. Prof.
+>- Mrs.Dhanusha A               
+Asst. Prof.
 
 
 
