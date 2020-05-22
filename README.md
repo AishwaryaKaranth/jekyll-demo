@@ -5,12 +5,12 @@ You can use the [editor on GitHub](https://github.com/AishwaryaKaranth/jekyll-de
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### About
-
+* * *
 The conference aims to provide the platform for UG and PG students of Engineering discipline for the exchange of new ideas, thoughts, emerging trends in Engineering, Science and Technolgy.
 
 
 
-** Cheif Patron**
+**Cheif Patron**
  Dr R N Shetty
  Chairman
 
@@ -21,6 +21,7 @@ The conference aims to provide the platform for UG and PG students of Engineerin
 
 
 **Co-ordinators**
+
  Dr Smitha N
  Assistant Professor
 
@@ -35,6 +36,7 @@ The conference aims to provide the platform for UG and PG students of Engineerin
 
 
 ### Topics 
+* * *
 >- Machine Learning and Artificial Intelligence
 >- Audio and speech processing
 >- Pattern recognition
@@ -58,18 +60,22 @@ The conference aims to provide the platform for UG and PG students of Engineerin
 
 
 ### Organising Committee
+* * *
+
 ## Department of ECE
->-Mrs.Ibrar Jahan M A          Asst. Prof.
->-Mrs.Ghousia Begum            Asst. Prof.
->-Mrs.Chethana J               Asst. Prof.
->-Mrs.Leena C                  Asst. Prof.
->-Mrs.Apoorva N Hegde          Asst. Prof.
->-Mrs.Nirmala M S              Asst. Prof.
->-Mrs.Dhanusha A               Asst. Prof.
+>- Mrs.Ibrar Jahan M A          Asst. Prof.
+>- Mrs.Ghousia Begum            Asst. Prof.
+>- Mrs.Chethana J               Asst. Prof.
+>- Mrs.Leena C                  Asst. Prof.
+>- Mrs.Apoorva N Hegde          Asst. Prof.
+>- Mrs.Nirmala M S              Asst. Prof.
+>- Mrs.Dhanusha A               Asst. Prof.
 
 
 
 ### Support or Contact
+* * *
+
  **Dr Smitha N**         -
  **Mrs.Chethana J**      -
 ## ncetest2020@gmail.com
