@@ -1,8 +1,9 @@
-### RNS INSTITUTE OF TECHNOLOGY
+## RNS INSTITUTE OF TECHNOLOGY
 
 ## Department of Electronics and Communication
+[ Home ](https://github.com/AishwaryaKaranth/jekyll-demo/edit/master/README.md) |[ About ](#abt)|[ Topics ](#topics)|[Important Dates ](#dates)|[ Committee ](#committee)|[ Contact ](#contact)
 
-[ Home  ](https://github.com/AishwaryaKaranth/jekyll-demo/edit/master/README.md) |[ About  ](https://github.com/AishwaryaKaranth/jekyll-demo/edit/master/about.md) |[ Important Dates  ](https://github.com/AishwaryaKaranth/jekyll-demo/edit/master/dates.md) |[ Topics  ](https://github.com/AishwaryaKaranth/jekyll-demo/edit/master/topics.md) |[ Contact ](https://github.com/AishwaryaKaranth/jekyll-demo/edit/master/contact.md)
+## abt ##
 ### About
 * * *
 The conference aims to provide the platform for UG and PG students of Engineering discipline for the exchange of new ideas, thoughts, emerging trends in Engineering, Science and Technolgy.
@@ -43,13 +44,13 @@ Professor and Head of Department, ECE
  
  Assistant Professor
 
-
+## dates ##
 ```markdown
 ### Important Dates
 
 ```
 
-
+## topics ##
 ### Topics 
 * * *
 >- Machine Learning and Artificial Intelligence
@@ -73,7 +74,7 @@ Professor and Head of Department, ECE
 >- MEMS
 
 
-
+## committee ##
 ### Organising Committee
 * * *
 
@@ -94,7 +95,7 @@ Asst. Prof.
 Asst. Prof.
 
 
-
+## contact ##
 ### Support or Contact
 * * *
 
