@@ -59,13 +59,13 @@ The conference aims to provide the platform for UG and PG students of Engineerin
 
 ### Organising Committee
 ## Department of ECE
-> -Mrs.Ibrar Jahan M A          Asst. Prof.
-> -Mrs.Ghousia Begum            Asst. Prof.
-> -Mrs.Chethana J               Asst. Prof.
-> -Mrs.Leena C                  Asst. Prof.
-> -Mrs.Apoorva N Hegde          Asst. Prof.
-> -Mrs.Nirmala M S              Asst. Prof.
-> -Mrs.Dhanusha A               Asst. Prof.
+>-Mrs.Ibrar Jahan M A          Asst. Prof.
+>-Mrs.Ghousia Begum            Asst. Prof.
+>-Mrs.Chethana J               Asst. Prof.
+>-Mrs.Leena C                  Asst. Prof.
+>-Mrs.Apoorva N Hegde          Asst. Prof.
+>-Mrs.Nirmala M S              Asst. Prof.
+>-Mrs.Dhanusha A               Asst. Prof.
 
 
 
